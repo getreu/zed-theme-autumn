@@ -1,0 +1,7 @@
+id = "autumn"
+name = "Autumn Theme"
+version = "0.8.0"
+schema_version = 1
+authors = ["Jens Getreu <getreu@web.de>"]
+description = "A warm, earthy color scheme inspired by autumn colors. Originally designed for Komodo IDE and ported from Helix."
+repository = "https://github.com/getreu/zed-theme-autumn"
